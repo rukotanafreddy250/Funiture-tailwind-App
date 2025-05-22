@@ -8,7 +8,7 @@ Follow the Getting Started guide and build websites with Tailwind CSS. Also, fol
 
 1.  Clone the repository
 
-         git clone https://github.com/ThirusOfficial/tailwind-css-starter-postcss.git {{ your project name }}
+         git clone https://github.com/rukotanafreddy250/Funiture-tailwind-App.git {{ your project name }}
 
     Alternately you can download the zip file and unzip it.
 
@@ -50,4 +50,4 @@ NOTE: If you are using Windows and face an error `NODE ENV not recognised`, run 
 
      npm install win-node-env
 
-# Tailwind-sandbox-boiler-plate-
+
